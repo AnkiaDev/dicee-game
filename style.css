@@ -1,0 +1,43 @@
+body {
+  font-family: "Indie Flower", cursive;
+  background-color: #26262b;
+  color: #a6a6a8;
+}
+
+h1 {
+  font-family: "Lobster", cursive;
+  font-weight: bold;
+  font-size: 3rem;
+  text-align: center;
+  color: white;
+}
+
+#player-message {
+  height: 100px;
+}
+
+#player-message h3 {
+  font-size: 2rem;
+  padding-top: 40px;
+  text-align: center;
+}
+
+#dice-section {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+#dice-section div {
+  margin: 5px;
+}
+
+#dice-section div p {
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+#button-section {
+  margin-top: 100px;
+  display: flex;
+  justify-content: center;
+}
